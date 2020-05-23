@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SampleAsyncTask3</string>
+    <string name="title">Quake Report</string>
+    <string name="near_the">Near the</string>
+    <string name="date_format">LLL dd, yyyy</string>
+    <string name="time_format">h:mm a</string>
+    <string name="decimal_format">0.0</string>
+</resources>
